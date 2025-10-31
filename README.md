@@ -4,7 +4,7 @@
 🎯 Passionate about coding, AI, and open-source.
 
 ## 🚀 Projects
-- 🛒 [E-Commerce App](https://github.com/yourusername/e-comm)
+- 🛒 [E-Commerce App]([https://github.com/yourusername/e-comm](https://zentra.ccbp.tech/))
 - 💬 [Chat App](https://github.com/yourusername/chatapp)
 
 ## 📫 Connect with me:
