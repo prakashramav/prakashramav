@@ -5,7 +5,7 @@
 
 ## 🚀 Projects
 - 🛒 [E-Commerce App](https://github.com/prakashramav/e-comm)
-- 💬 [Chat App](https://github.com/yourusername/chatapp)
+- 💬 [Chat App](https://github.com/prakashramav/jobby)
 
 ## 📫 Connect with me:
 - [LinkedIn](https://linkedin.com/in/yourusername)
