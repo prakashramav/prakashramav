@@ -8,5 +8,4 @@
 - 💬 [Jobby App](https://github.com/prakashramav/jobby)
 
 ## 📫 Connect with me:
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Portfolio](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/prakashramavath/)
