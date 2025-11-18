@@ -5,7 +5,7 @@
 
 ## 🚀 Projects
 - 🛒 [E-Commerce App](https://github.com/prakashramav/e-comm)
-- 💬 [Jobby App](https://github.com/prakashramav/jobby)
+- 💬 [Jobby App](https://github.com/prakashramav/jobby1)
 
 ## 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/prakashramavath/)
