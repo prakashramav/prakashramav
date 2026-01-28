@@ -8,10 +8,11 @@ learning new technologies, and solving real-world problems.
 ---
 
 ## 🛠 Tech Stack
+
 - **Frontend:** React, JavaScript, HTML, CSS, Tailwind
+- **State Management:** Context API, Redux Toolkit
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Tools:** Git, GitHub, Postman, VS Code
 - **Other:** REST APIs, JWT Authentication
 
 ---
