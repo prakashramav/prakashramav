@@ -23,6 +23,17 @@ learning new technologies, and solving real-world problems.
 ---
 
 ## 🚀 Featured Projects
+### 🧠 ResumeAI – Intelligent Resume & Career Optimization Platform
+- AI-powered platform that generates **ATS-optimized resumes tailored to specific job roles**
+- Built with **Next.js, Node.js, and modern AI integrations** for fast and scalable performance
+- Designed a **multi-step AI pipeline** for accurate resume generation and reduced hallucination
+- Integrated **job description matching & keyword optimization** to improve interview chances
+- Provides **career insights, skill gap analysis, and personalized recommendations**
+
+🔗 Live Demo: https://resumeaii.vercel.app/
+📂 GitHub: https://github.com/prakashramav/ResumeAI
+
+---
 
 ### 📊 AI Growise – Smart Financial Assistant
 - AI-powered financial assistant that provides **personalized insights on spending, saving, and budgeting**
