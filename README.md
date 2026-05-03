@@ -4,6 +4,7 @@
 
 I build **AI-powered, scalable web applications** that solve real-world problems.  
 Passionate about combining **full-stack development with AI** to create impactful products in finance, careers, and productivity.
+
 ---
 
 # 💻 Tech Stack:
