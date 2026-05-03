@@ -24,15 +24,15 @@ learning new technologies, and solving real-world problems.
 
 ## 🚀 Featured Projects
 
-### 📊 Financial Dashboard Application
-- Full-stack financial dashboard to track **income, expenses, and savings**
-- Built using **React.js, Node.js, Express.js, and MongoDB**
-- Developed **15+ RESTful APIs** for financial data management and analytics
-- Implemented **interactive charts & real-time data visualizations**
-- Deployed on **Vercel** with optimized frontend performance  
+### 📊 AI Growise – Smart Financial Assistant
+- AI-powered financial assistant that provides **personalized insights on spending, saving, and budgeting**
+- Built using **Next.js, Node.js, and modern AI integrations**
+- Implemented **intelligent recommendations** based on user financial data
+- Designed **secure and scalable RESTful APIs**
+- Integrated **real-time analytics and data visualization**
 
-🔗 Live Demo: https://group-15-financial-dash-board-eight.vercel.app/  
-📂 GitHub: https://github.com/TanishqBhosle/Group-15-Financial-DashBoard
+🔗Live Demo: https://growise-ai-finance8.vercel.app/
+📂GitHub: https://github.com/prakashramav/growiseAI
 
 ---
 
