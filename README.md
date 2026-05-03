@@ -46,7 +46,18 @@ learning new technologies, and solving real-world problems.
 📂GitHub: https://github.com/prakashramav/growiseAI
 
 ---
+### 🎤 Interview-AI – Real-Time AI Interview Assistant
+- AI-powered platform that helps users **prepare for technical and behavioral interviews**
+- Generates **role-specific interview questions and intelligent answers in real-time**
+- Built using **Next.js and modern AI integrations for low-latency performance**
+- Supports **mock interview simulations with dynamic question generation**
+- Provides **AI-driven feedback and improvement suggestions**
+- Designed to reduce **interview anxiety and improve communication skills**
 
+🔗 Live Demo: https://interviewaii-i.vercel.app/
+📂 GitHub: https://github.com/prakashramav/Interview-AI
+
+---
 ### 🛒 E-Commerce Website
 - Full-stack e-commerce platform built with **React.js and Express.js**
 - Implemented **product listing, cart management, and order workflow**
