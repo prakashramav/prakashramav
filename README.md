@@ -56,13 +56,13 @@ Passionate about combining **full-stack development with AI** to create impactfu
 
 ---
 ### 🎤 Interview-AI – Real-Time AI Interview Assistant
--Built a full-stack AI-powered mock interview platform with live video/audio interview sessions using Stream Video SDK.
--Integrated Google Gemini API for dynamic interview question generation, answer analysis, and structured AI feedback.
--Implemented secure authentication and session management using Clerk with JWT-based workflows.
--Configured Arcjet middleware for API rate limiting and bot protection in a production-grade environment.
--Developed automated interview scheduling and transactional email workflows using React Email and Resend API.
--Designed scalable backend architecture using Prisma ORM, PostgreSQL, and Next.js 16 Server Actions.
--Deployed on Vercel with serverless architecture for high performance and low-latency AI interactions.
+- Built a full-stack AI-powered mock interview platform with live video/audio interview sessions using Stream Video SDK.
+- Integrated Google Gemini API for dynamic interview question generation, answer analysis, and structured AI feedback.
+- Implemented secure authentication and session management using Clerk with JWT-based workflows.
+- Configured Arcjet middleware for API rate limiting and bot protection in a production-grade environment.
+- Developed automated interview scheduling and transactional email workflows using React Email and Resend API.
+- Designed scalable backend architecture using Prisma ORM, PostgreSQL, and Next.js 16 Server Actions.
+- Deployed on Vercel with serverless architecture for high performance and low-latency AI interactions.
 
 🔗 Live Demo: https://interviewaii-i.vercel.app/  
 📂 GitHub: https://github.com/prakashramav/Interview-AI  
