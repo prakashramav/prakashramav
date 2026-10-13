@@ -12,9 +12,8 @@
 <text x="550" y="38" fill="#8793b7" text-anchor="middle" font-family="monospace" font-size="14">prakashramav@github ~ /profile --live</text>
 <rect x="28" y="88" width="270" height="340" rx="12" fill="#0b1225" stroke="#1e9dba" stroke-opacity=".7"/>
 <circle cx="163" cy="190" r="70" fill="#20145b" stroke="#8b5cf6" stroke-width="2" filter="url(#glow)"/>
-<path d="M117 186 Q119 135 163 134 Q207 137 209 186 L199 213 L187 229 L139 229 L127 213Z" fill="#9b6bff" opacity=".95"/>
-<path d="M105 314 Q111 244 163 240 Q215 244 222 314 L222 366 L105 366Z" fill="#7c3aed"/>
-<path d="M140 176 Q163 188 186 176 M145 199 Q163 210 181 199" fill="none" stroke="#171238" stroke-width="4" stroke-linecap="round"/>
+<clipPath id="avatarClip"><circle cx="163" cy="190" r="65"/></clipPath><image href="https://avatars.githubusercontent.com/u/198643018?v=4" x="98" y="125" width="130" height="130" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+<path d="M105 366V314 Q111 244 163 240 Q215 244 222 314V366Z" fill="#7c3aed" opacity=".22" stroke="#8b5cf6" stroke-width="2"/>
 <path d="M44 112H78 M44 112V146 M282 112H248 M282 112V146 M44 405H78 M44 405V371 M282 405H248 M282 405V371" stroke="#22d3ee" stroke-width="2" fill="none"/>
 <text x="163" y="393" fill="#e7e9ff" text-anchor="middle" font-family="monospace" font-size="13">AI × FULL STACK</text>
 <text x="340" y="112" fill="#22d3ee" font-family="monospace" font-size="13">SYSTEM.INFO</text><circle cx="1050" cy="107" r="4" fill="#28c840"/><text x="1063" y="112" fill="#ff7185" font-family="monospace" font-size="11">LIVE</text>
