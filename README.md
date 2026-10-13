@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/prakashramav/prakashramav/main/assets/profile-terminal.svg" alt="Animated terminal-style developer profile" />
+<img width="100%" src="https://raw.githubusercontent.com/prakashramav/prakashramav/main/assets/Mee.jpeg" alt="Animated terminal-style developer profile" />
 </div>
 
 <div align="center">
