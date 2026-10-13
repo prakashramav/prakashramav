@@ -1,6 +1,8 @@
-<div align="center">\n<img width="100%" src="https://raw.githubusercontent.com/prakashramav/prakashramav/main/assets/profile-terminal.svg" alt="Animated terminal-style developer profile" />\n</div>\n\n<div align="center">
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/prakashramav/prakashramav/main/assets/profile-terminal.svg" alt="Animated terminal-style developer profile" />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:161B22,100:6E40C9&height=220&section=header&text=Prakash%20Ramavath&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=34&desc=Agentic%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=57" alt="Animated profile header" />
+<div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+stateful+multi-agent+AI+systems;Generative+AI+%7C+LLMs+%7C+RAG+%7C+MCP;LangGraph+orchestration+with+guardrails;Full-stack+apps+powered+by+practical+AI" alt="Animated typing tagline" />
