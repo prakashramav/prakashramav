@@ -12,7 +12,7 @@
 <text x="550" y="38" fill="#8793b7" text-anchor="middle" font-family="monospace" font-size="14">prakashramav@github ~ /profile --live</text>
 <rect x="28" y="88" width="270" height="340" rx="12" fill="#0b1225" stroke="#1e9dba" stroke-opacity=".7"/>
 <circle cx="163" cy="190" r="70" fill="#20145b" stroke="#8b5cf6" stroke-width="2" filter="url(#glow)"/>
-<clipPath id="avatarClip"><circle cx="163" cy="190" r="65"/></clipPath><image href="https://github.com/prakashramav.png?size=256" x="98" y="125" width="130" height="130" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+<circle cx="163" cy="190" r="65" fill="#111b35" stroke="#22d3ee" stroke-width="1.5"/><text x="163" y="208" fill="#e7e9ff" text-anchor="middle" font-family="monospace" font-size="52" font-weight="700">PR</text>
 <path d="M105 366V314 Q111 244 163 240 Q215 244 222 314V366Z" fill="#7c3aed" opacity=".22" stroke="#8b5cf6" stroke-width="2"/>
 <path d="M44 112H78 M44 112V146 M282 112H248 M282 112V146 M44 405H78 M44 405V371 M282 405H248 M282 405V371" stroke="#22d3ee" stroke-width="2" fill="none"/>
 <text x="163" y="393" fill="#e7e9ff" text-anchor="middle" font-family="monospace" font-size="13">AI × FULL STACK</text>
