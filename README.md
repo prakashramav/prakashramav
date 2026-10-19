@@ -1,7 +1,5 @@
 <div align="center">
-<img src="https://github.com/prakashramav.png?size=256" width="120" alt="Prakash Ramavath GitHub profile photo" />
-<br/>
-<img width="100%" src="https://raw.githubusercontent.com/prakashramav/prakashramav/main/assets/profile-terminal.svg" alt="Animated terminal-style developer profile" />
+<img width="100%" src="https://raw.githubusercontent.com/prakashramav/prakashramav/main/assets/profile-terminal-v2.svg" alt="Terminal-style developer profile" />
 </div>
 
 <div align="center">
