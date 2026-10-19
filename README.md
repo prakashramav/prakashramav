@@ -1,22 +1,3 @@
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/prakashramav/prakashramav/main/assets/profile-terminal.svg" alt="Animated terminal-style developer profile" />
-</div>
-
-<div align="center">
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+stateful+multi-agent+AI+systems;Generative+AI+%7C+LLMs+%7C+RAG+%7C+MCP;LangGraph+orchestration+with+guardrails;Full-stack+apps+powered+by+practical+AI" alt="Animated typing tagline" />
-</a>
-
-<p>
-  <a href="https://github.com/prakashramav"><img src="https://img.shields.io/badge/GitHub-prakashramav-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/prakashramavath"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/ArjunRathod01/"><img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
